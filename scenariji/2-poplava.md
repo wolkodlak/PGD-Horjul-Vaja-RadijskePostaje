@@ -12,6 +12,8 @@ Zbiranje informacij o poplavljenih objektih.
 ## Naloge
 - Zabeležiti število poplavljenih objektov.
 - Oceniti potrebo po črpalkah.
+- Zbira se infomracije o morebitnih pogrešanih osebah
+- Zbira se informacije o morebitni dodatni nevarnosti
 
 ## Vzorec sporočila
 "Horjul 1, Horjul B. Na lokaciji [vstavi_lokacijo] poplavljene 4 kleti. Potrebne 2 črpalke. Sprejem."

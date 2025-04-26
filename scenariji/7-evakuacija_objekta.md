@@ -7,7 +7,7 @@
 Izvajanje evakuacije iz stavbe.
 
 ## Število ljudi v skupini
-2 osebi
+2-6 oseb
 
 ## Naloge
 - Organizirati evakuacijo.

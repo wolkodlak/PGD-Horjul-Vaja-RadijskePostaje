@@ -59,7 +59,7 @@ Horjul 1, Horjul 7. Javljam, da smo našli tri ponesrečence. Potrebujemo nosila
 ## 🤝 Avtorji
 - Prostovoljno gasilsko društvo Horjul
 - Pripravil: Jernej Čepon
-- Vodji projekta: jernej Čepon, Matevž Seliger
+- Vodji projekta: Jernej Čepon, Matevž Seliger
 
 ---
 

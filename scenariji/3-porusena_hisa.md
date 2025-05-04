@@ -23,7 +23,7 @@ Pri hiši bo na kartonskem ali lesenem podstavku sporočilo o stanju hiše.
 
 
 ## Besedilo za opis naloge
-Na Ljubljanski cesti 45 se je porušila hiša med potresom. Vemo, da v hiši nihče ne stanuje, potrebno pa je preveriti ali je potrebno
+Na Ljubljanski cesti 45 se je porušila hiša med potresom. Vemo, da v hiši nihče ne stanuje, potrebno pa je preveriti, da je objekt res prazen in ne ogroža ljudi v okolici.
 
 ## Vzorec sporočila
 "Horjul 1, Horjul C. Našli dve osebi v ruševinah. Ena poškodovana. Sprejem."

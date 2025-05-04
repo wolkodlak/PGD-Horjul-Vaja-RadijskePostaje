@@ -17,7 +17,7 @@ Poročanje o stanju na kraju prometne nesreče.
 Gasilca morata locirati mesto vozila, ki je zdrsnilo iz cestišča in zapeljalo nižje v gozd.
 
 ## Besedilo za opis naloge
-Javljena je bila prometna nesreča. Izvozili smo z GVM-1 in GVC-1. Na mestu, kjer naj bi bila nesreča se vozila ne vidi. Vodja intervencije vama je zadal nalogo, da se spustita po terenu navzdol in poskusita locirati vozilo. Za poenostavitev je teren lažje dostopen in ni potrebno izvajati še naveza. Poiščita vozilo in javita stanje.
+Javljena je bila prometna nesreča. Izvozili smo z GVM-1 in GVC-1. Na mestu, kjer naj bi bila nesreča se vozila ne vidi. Vodja intervencije vam je zadal nalogo, da se spustite po terenu navzdol in poskusite locirati vozilo. Za poenostavitev je teren lažje dostopen in ni potrebno izvajati še naveza. Poiščite vozilo in javite stanje.
 
 ## Vzorec sporočila
 "Horjul 1, Horjul D. Našli dve poškodovani osebi, razlitje goriva na cestišču. Sprejem."

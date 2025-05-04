@@ -1,7 +1,11 @@
 # Scenarij 2: Poplava
 
 ## Lokacija
-[vstavi_lokacijo]
+Hiše:
+- 1: Na staje 9
+- 2: Na staje 10
+- 3: Na staje 12
+- 4: hiša Anžeta Gabrovšek
 
 ## Cilj skupine
 Zbiranje informacij o poplavljenih objektih.
@@ -14,6 +18,13 @@ Zbiranje informacij o poplavljenih objektih.
 - Oceniti potrebo po črpalkah.
 - Zbira se infomracije o morebitnih pogrešanih osebah
 - Zbira se informacije o morebitni dodatni nevarnosti
+
+## Izvedba
+Pri vsaki od hiš bo na kartonskem ali lesenem podstavku sporočilo o stanju hiše.
+2.1 - Poplavljeno okoli hiše, vhodi v hišo so zaščiteni s protipoplavnimi vrečami
+2.2 - Poplavljeno dvorišče, voda v kletnih prostorih, prebivalci so na varnem. Potrebno bo črpanje vode.
+2.3 - Hiša na varnem, ob morebitnem dviganju gladine potrebuje varovanje
+2.4 - Poplavljeno dvorišče, kletnih prostorov ni vhodna vrata so zaščitena. Potrebna dodatna zaščita za garažo in balkonvska vrata v pritličju.
 
 ## Vzorec sporočila
 "Horjul 1, Horjul B. Na lokaciji [vstavi_lokacijo] poplavljene 4 kleti. Potrebne 2 črpalke. Sprejem."

@@ -27,7 +27,7 @@ Pri vsaki od hiš bo na kartonskem ali lesenem podstavku sporočilo o stanju hi�
 - 2.4: Poplavljeno dvorišče, kletnih prostorov ni vhodna vrata so zaščitena. Potrebna dodatna zaščita za garažo in balkonvska vrata v pritličju.
 
 ## Besedilo za opis naloge
-V podstajah poplavlja. Potrebujemo informacije iz terena. Javite stanje o objektih: Na staje 9, 10, 12 in ??
+V podstajah ter Na vovčnah poplavlja naše enote pa so razkropljene. Potrebujemo informacije iz terena za lažjo razporeditev prioritet. Javite stanje o objektih: Na staje 9, 10, 12 in ??
 
 ## Vzorec sporočila
 "Horjul 1, Horjul B. Na lokaciji [vstavi_lokacijo] poplavljene 4 kleti. Potrebne 2 črpalke. Sprejem."
